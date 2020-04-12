@@ -1,5 +1,5 @@
 {
-  "name": "dto",
+  "name": "p24-api-dto",
   "version": "0.0.1",
   "description": "DTO (Data Transfer Object) framework for JSON",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://TylerGarlick@github.com/TylerGarlick/dto.git"
+    "url": "git+https://github.com/P24-ee/api-dto.git"
   },
   "keywords": [
     "DTO",
@@ -18,9 +18,9 @@
   "author": "Tyler Garlick <tjgarlick@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TylerGarlick/dto/issues"
+    "url": "https://github.com/P24-ee/api-dto"
   },
-  "homepage": "https://github.com/TylerGarlick/dto#readme",
+  "homepage": "https://github.com/P24-ee/api-dto",
   "devDependencies": {
     "chai": "^3.2.0",
     "mocha": "^2.2.5"
