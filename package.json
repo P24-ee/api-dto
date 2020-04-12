@@ -1,6 +1,6 @@
 {
   "name": "p24-api-dto",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "DTO (Data Transfer Object) framework for JSON",
   "main": "index.js",
   "scripts": {
